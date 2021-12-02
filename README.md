@@ -26,6 +26,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing COVID-19 world data with PostgreSQL](https://aingelmo.github.io/blog/covid19-sql-analysis)
+- [Usage patterns in Ford GoBike bicycle sharing](https://aingelmo.github.io/blog/bikesharing-data)
+- [Analyzing WeRateDogs twitter profile](https://aingelmo.github.io/blog/weRateDogs-analysis)
+- [Should I deploy my new website? Or better keep the old one? &lpar;Part 3 - Logistic Regression&rpar;](https://aingelmo.github.io/blog/ab-testing-part3)
+- [Should I deploy my new website? Or better keep the old one? &lpar;Part 2 - Z-test&rpar;](https://aingelmo.github.io/blog/ab-testing-part2)
 <!-- BLOG-POST-LIST:END -->
 
 
