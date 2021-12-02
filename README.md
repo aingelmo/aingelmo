@@ -10,7 +10,8 @@
 [<img align="left" alt="aingelmop | Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="aingelmop | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aingelmo | Tableau" width="22px" src="https://img.icons8.com/material-outlined/48/000000/tableau-software.png"/>][tableau]
-[<img align="left" alt="aingelmo | Mail" width="22px" src="https://img.icons8.com/external-kiranshastry-solid-kiranshastry/64/000000/external-email-interface-kiranshastry-solid-kiranshastry.png"/>][mail]
+
+<br />
 
 ### Language and tools
 
@@ -29,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 [website]: https://aingelmo.github.io/
 [linkedin]: https://linkedin.com/in/aingelmop/
 [tableau]: https://public.tableau.com/app/profile/aingelmop
-[mail]: mailto:aingelmop@gmail.com
+
