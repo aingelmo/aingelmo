@@ -39,7 +39,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.aingelmo.vercel.app/api?username=aingelmo&show_icons=true&hide_border=true" />
+<img align="left" alt="aingelmo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aingelmo&show_icons=true&hide_border=true" />
 
 
 
