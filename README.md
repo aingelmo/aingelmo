@@ -24,10 +24,17 @@
 <br />
 <br />
 
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [more blog posts...](https://aingelmo.github.io/blog)
+
+---
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.aingelmo.vercel.app/api?username=aingelmo&show_icons=true&hide_border=true" />
 
 
 
