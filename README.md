@@ -4,6 +4,7 @@
 
 * 🌱 I'm currently learning to code faster and better
 * ⚙️ I'm currently working of building the best personal portfolio I can
+* 👾 In my free time, I love to play video games and do sports
 
 ### Connect with me
 
@@ -28,11 +29,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing COVID-19 world data with PostgreSQL](https://aingelmo.github.io/blog/covid19-sql-analysis)
-- [Usage patterns in Ford GoBike bicycle sharing](https://aingelmo.github.io/blog/bikesharing-data)
-- [Analyzing WeRateDogs twitter profile](https://aingelmo.github.io/blog/weRateDogs-analysis)
-- [Should I deploy my new website? Or better keep the old one? &lpar;Part 3 - Logistic Regression&rpar;](https://aingelmo.github.io/blog/ab-testing-part3)
-- [Should I deploy my new website? Or better keep the old one? &lpar;Part 2 - Z-test&rpar;](https://aingelmo.github.io/blog/ab-testing-part2)
+* [Analyzing COVID-19 world data with PostgreSQL](https://aingelmo.github.io/blog/covid19-sql-analysis)
+* [Usage patterns in Ford GoBike bicycle sharing](https://aingelmo.github.io/blog/bikesharing-data)
+* [Analyzing WeRateDogs twitter profile](https://aingelmo.github.io/blog/weRateDogs-analysis)
+* [Should I deploy my new website? Or better keep the old one? &lpar;Part 3 - Logistic Regression&rpar;](https://aingelmo.github.io/blog/ab-testing-part3)
+* [Should I deploy my new website? Or better keep the old one? &lpar;Part 2 - Z-test&rpar;](https://aingelmo.github.io/blog/ab-testing-part2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://aingelmo.github.io/blog)
@@ -40,20 +41,6 @@
 ---
 
 <img align="left" alt="aingelmo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aingelmo&show_icons=true&hide_border=true" />
-
-
-
-
-
-
-👋 Hi, I’m Andrés Ingelmo. I hold an MBA in International Maangement from the ICEX-CECO and a Bachelor Degree in Economics from the University of Salamanca. In 2021, after living in multiple countries and having worked in a wide variety of fields, I decided to pursue the career I always wanted: data analytics. During my free time I love to play videogames and do multiple sports.
-
-In my GitHub, I try to show my personal achievements regarding data analytics and code. I´m still learning so my first projects don´t have anything to do with my newest one. I love to learn and my life is driven by the continuous improvement. Hope you can see my progress checking out my profile!
-
-<!---
-aingelmo/aingelmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 [website]: https://aingelmo.github.io/
 [linkedin]: https://linkedin.com/in/aingelmop/
@@ -63,6 +50,3 @@ You can click the Preview link to take a look at your changes.
 [jupyter]: https://github.com/aingelmo/portfolio/tree/main/Udacity/Project_5_Communicate-Data-Findings
 [tableau project]: https://github.com/aingelmo/portfolio/tree/main/olympics_tableau
 [powerbi]: https://github.com/aingelmo/FrogFit_Data_Extraction
-
-
-
