@@ -8,7 +8,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="aingelmo | Personal Website" width="22px" src="https://img.icons8.com/material-outlined/24/4a90e2/globe--v2.png />][website]
+[<img align="left" alt="aingelmo | Personal Website" width="22px" src="https://img.icons8.com/material-outlined/24/4a90e2/globe--v2.png" />][website]
 [<img align="left" alt="aingelmo | LinkedIn" width="22px" src="https://img.icons8.com/ios-glyphs/30/4a90e2/linkedin.png" />][linkedin]
 [<img align="left" alt="aingelmo | Tableau" width="22px" src="https://img.icons8.com/ios/50/4a90e2/tableau-software.png"/>][tableau]
 
