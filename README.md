@@ -16,7 +16,7 @@
 
 ### Language and tools
 
-[<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/external-wanicon-lineal-wanicon/64/4a90e2/external-sql-server-big-data-wanicon-lineal-wanicon.png" />][sql]
+[<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/IUH4hBL.png" />][sql]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/ios-filled/50/4a90e2/python.png" />][plotly]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://i.imgur.com/EaqIXFb.png" />][jupyter]
 [<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/ios/50/4a90e2/tableau-software.png" />][tableau project]
