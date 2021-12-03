@@ -26,7 +26,17 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📁 My personal portfolio
+
+* [FrogFit Salamanca Data Extraction Project](https://github.com/aingelmo/FrogFit_Data_Extraction)
+* [Evolution of COVID | Powered by Plotly Dash](https://github.com/aingelmo/portfolio/tree/main/covid_plotly-dash)
+* [History of Olympic Games | Powered by Tableau](https://github.com/aingelmo/portfolio/tree/main/olympics_tableau)
+
+➡️ [more projects...](https://github.com/aingelmo/portfolio)
+
+---
+
+### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 * [Analyzing COVID-19 world data with PostgreSQL](https://aingelmo.github.io/blog/covid19-sql-analysis)
 * [Usage patterns in Ford GoBike bicycle sharing](https://aingelmo.github.io/blog/bikesharing-data)
