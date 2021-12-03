@@ -23,7 +23,6 @@
 [<img align="left" alt="Microsoft Power BI" width="26px" src="https://img.icons8.com/material-outlined/48/4a90e2/power-bi.png" />][powerbi]
 
 <br />
-<br />
 
 ---
 
