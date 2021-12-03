@@ -14,7 +14,7 @@
 
 <br />
 
-### Language and tools
+### Languages and tools
 
 [<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/IUH4hBL.png" />][sql]
 [<img align="left" alt="Python" width="26px" src="https://i.imgur.com/PzcQN4t.png" />][plotly]
