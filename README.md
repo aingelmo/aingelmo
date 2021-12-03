@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrés Ingelmo! 👋
 
-## I'm an economist truly passionate about data science
+## I'm an economist trulypassionate about data science
 
 * 🌱 I'm currently learning to code faster and better
 * ⚙️ I'm currently working of building the best personal portfolio I can
