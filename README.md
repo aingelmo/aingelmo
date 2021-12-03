@@ -1,4 +1,4 @@
-### Hi there, I'm Andrés Ingelmo! 👋
+### 👋 Hi there, I'm Andrés Ingelmo! 
 
 ## I'm an economist truly passionate about data science
 
