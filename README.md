@@ -11,6 +11,8 @@
 [<img align="left" alt="aingelmo | Personal Website" width="26px" src="https://i.imgur.com/0gkLAIb.png" />][website]
 [<img align="left" alt="aingelmo | LinkedIn" width="26px" src="https://i.imgur.com/FaUFOby.png" />][linkedin]
 [<img align="left" alt="aingelmo | Tableau" width="26px" src="https://i.imgur.com/1JPyn0I.png"/>][tableau]
+[<img align="left" alt="aingelmo | Medium" width="26px" src="https://i.imgur.com/YUY0zFS.png"/>][medium]
+
 
 <br />
 
@@ -59,3 +61,4 @@
 [jupyter]: https://github.com/aingelmo/portfolio/tree/main/Udacity/Project_5_Communicate-Data-Findings
 [tableau project]: https://github.com/aingelmo/portfolio/tree/main/olympics_tableau
 [powerbi]: https://github.com/aingelmo/FrogFit_Data_Extraction
+[medium]: https://medium.com/@aingelmop
