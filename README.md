@@ -8,19 +8,19 @@
 
 ### Connect with me
 
-[<img align="left" alt="aingelmo | Personal Website" width="26px" src="https://img.icons8.com/material-outlined/24/4a90e2/globe--v2.png" />][website]
-[<img align="left" alt="aingelmo | LinkedIn" width="26px" src="https://img.icons8.com/ios-glyphs/30/4a90e2/linkedin.png" />][linkedin]
-[<img align="left" alt="aingelmo | Tableau" width="26px" src="https://img.icons8.com/ios/50/4a90e2/tableau-software.png"/>][tableau]
+[<img align="left" alt="aingelmo | Personal Website" width="26px" src="https://i.imgur.com/0gkLAIb.png" />][website]
+[<img align="left" alt="aingelmo | LinkedIn" width="26px" src="https://i.imgur.com/FaUFOby.png" />][linkedin]
+[<img align="left" alt="aingelmo | Tableau" width="26px" src="https://i.imgur.com/1JPyn0I.png"/>][tableau]
 
 <br />
 
 ### Language and tools
 
 [<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/IUH4hBL.png" />][sql]
-[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/ios-filled/50/4a90e2/python.png" />][plotly]
+[<img align="left" alt="Python" width="26px" src="https://i.imgur.com/PzcQN4t.png" />][plotly]
 [<img align="left" alt="Jupyter Notebook" width="26px" src="https://i.imgur.com/EaqIXFb.png" />][jupyter]
-[<img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/ios/50/4a90e2/tableau-software.png" />][tableau project]
-[<img align="left" alt="Microsoft Power BI" width="26px" src="https://img.icons8.com/material-outlined/48/4a90e2/power-bi.png" />][powerbi]
+[<img align="left" alt="Tableau" width="26px" src="https://i.imgur.com/1JPyn0I.png" />][tableau project]
+[<img align="left" alt="Microsoft Power BI" width="26px" src="https://i.imgur.com/0VfV6Bd.png" />][powerbi]
 
 <br />
 
