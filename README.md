@@ -2,8 +2,8 @@
 
 ## I'm an economist truly passionate about data science
 
-* 🌱 I'm always learning to code faster and better focusing on best practices
-* ⚙️ I'm currently working of building the best personal portfolio I can
+* 🌱 Always learning to code faster and better focusing on best practices
+* ⚙️ Currently working of building the best personal portfolio I can
 * 👾 In my free time, I love to play video games and do sports
 
 ### Connect with me
