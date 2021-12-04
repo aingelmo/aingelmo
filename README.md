@@ -12,7 +12,7 @@
 [<img align="left" alt="aingelmo | LinkedIn" width="26px" src="https://i.imgur.com/FaUFOby.png" />][linkedin]
 [<img align="left" alt="aingelmo | Tableau" width="26px" src="https://i.imgur.com/1JPyn0I.png"/>][tableau]
 [<img align="left" alt="aingelmo | Medium" width="26px" src="https://i.imgur.com/YUY0zFS.png"/>][medium]
-
+[<img align="left" alt="aingelmo | Medium" width="26px" src="https://i.imgur.com/bCc9myM.png"/>][datacamp]
 
 <br />
 
@@ -62,3 +62,4 @@
 [tableau project]: https://github.com/aingelmo/portfolio/tree/main/olympics_tableau
 [powerbi]: https://github.com/aingelmo/FrogFit_Data_Extraction
 [medium]: https://medium.com/@aingelmop
+[datacamp]: https://www.datacamp.com/profile/aingelmo
