@@ -40,11 +40,11 @@
 
 ### 📕 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What does impact body performance? | A machine learning approach](https://aingelmo.github.io/blog/body-performance)
 - [Analyzing a boat listings website](https://aingelmo.github.io/blog/boat-listings)
 - [Analyzing COVID-19 world data with PostgreSQL](https://aingelmo.github.io/blog/covid19-sql-analysis)
 - [Usage patterns in Ford GoBike bicycle sharing](https://aingelmo.github.io/blog/bikesharing-data)
 - [Analyzing WeRateDogs twitter profile](https://aingelmo.github.io/blog/weRateDogs-analysis)
-- [Should I deploy my new website? Or better keep the old one? &lpar;Part 3 - Logistic Regression&rpar;](https://aingelmo.github.io/blog/ab-testing-part3)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://aingelmo.github.io/blog)
