@@ -56,10 +56,10 @@
 [website]: https://aingelmo.github.io/
 [linkedin]: https://linkedin.com/in/aingelmop/
 [tableau]: https://public.tableau.com/app/profile/aingelmop
-[sql]: https://github.com/aingelmo/portfolio/tree/main/covid_sql
-[plotly]: https://github.com/aingelmo/portfolio/tree/main/covid_plotly-dash
+[sql]: https://github.com/aingelmo/portfolio/tree/main/sql_covid
+[plotly]: https://github.com/aingelmo/portfolio/tree/main/dash_covid_plotly
 [jupyter]: https://github.com/aingelmo/portfolio/tree/main/Udacity/Project_5_Communicate-Data-Findings
-[tableau project]: https://github.com/aingelmo/portfolio/tree/main/olympics_tableau
+[tableau project]: https://github.com/aingelmo/portfolio/tree/main/tableau_olympics
 [powerbi]: https://github.com/aingelmo/FrogFit_Data_Extraction
 [medium]: https://medium.com/@aingelmop
 [datacamp]: https://www.datacamp.com/profile/aingelmo
