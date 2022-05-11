@@ -30,9 +30,8 @@
 
 ### 📁 My personal portfolio
 
-* [FrogFit Salamanca Data Extraction Project](https://github.com/aingelmo/FrogFit_Data_Extraction)
-* [Evolution of COVID | Powered by Plotly Dash](https://github.com/aingelmo/portfolio/tree/main/covid_plotly-dash)
-* [History of Olympic Games | Powered by Tableau](https://github.com/aingelmo/portfolio/tree/main/olympics_tableau)
+* [Evolution of COVID | Powered by Plotly Dash](https://github.com/aingelmo/portfolio/tree/main/dash_covid_plotly)
+* [History of Olympic Games | Powered by Tableau](https://github.com/aingelmo/portfolio/tree/main/tableau_olympics)
 
 ➡️ [more projects...](https://github.com/aingelmo/portfolio)
 
